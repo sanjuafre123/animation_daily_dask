@@ -1,3 +1,4 @@
+import 'package:animation_daily_dask/screens/airoplane_screen.dart';
 import 'package:animation_daily_dask/screens/puzzle.dart';
 import 'package:flutter/material.dart';
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: PuzzlePage(),
+      home: FlightScreen(),
     );
   }
 }
