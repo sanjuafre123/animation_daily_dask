@@ -27,5 +27,18 @@ https://github.com/user-attachments/assets/55e1e447-598e-45b4-8f52-c3bd1b90554a
 https://github.com/user-attachments/assets/bf289986-01d2-4d20-87cb-aeed6cac9644
 
 
+## Align & Text Animation
+### Description
+```A Flutter app that greets users with an animated message after they enter their name. Features typewriter-style text animation and a message display with a restart option.```
+
+<img src="https://github.com/user-attachments/assets/acf6a2b8-c470-4236-836e-c48cd27acc1c" height=65% width=25%>
+<img src="https://github.com/user-attachments/assets/9476342c-b376-465b-8e9e-78d930725960" height=65% width=25%>
+
+https://github.com/user-attachments/assets/49ec892f-2c6f-40af-ac76-bbdca26f6258
+
+
+
+
+
 
 
