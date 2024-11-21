@@ -37,8 +37,10 @@ https://github.com/user-attachments/assets/bf289986-01d2-4d20-87cb-aeed6cac9644
 https://github.com/user-attachments/assets/49ec892f-2c6f-40af-ac76-bbdca26f6258
 
 
+## Hero Animation
 
+<img src="https://github.com/user-attachments/assets/4106fbec-1e28-4906-8361-1b3aec388f6c" height=65% width=25%>
+<img src="https://github.com/user-attachments/assets/061c1536-7a86-4876-a21e-cc4d04dd182f" height=65% width=25%>
 
-
-
+https://github.com/user-attachments/assets/33e3d202-f3e5-4f0e-b127-b351f074f55a
 
