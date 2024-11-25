@@ -44,3 +44,9 @@ https://github.com/user-attachments/assets/49ec892f-2c6f-40af-ac76-bbdca26f6258
 
 https://github.com/user-attachments/assets/33e3d202-f3e5-4f0e-b127-b351f074f55a
 
+## Rotation planets
+
+<img src="https://github.com/user-attachments/assets/9c69b465-f0e3-41de-a017-b766cb8a02e1" height=65% width=25%>
+
+https://github.com/user-attachments/assets/62a6d272-a711-4c04-9612-2ced8fd1a328
+
