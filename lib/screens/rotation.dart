@@ -83,6 +83,21 @@ class _PlanetRotationState extends State<PlanetRotation>
             const SizedBox(
               width: 10,
             ),
+            ElevatedButton(
+              onPressed: () {
+                setState(() {
+                  if (animationController.isAnimating) {
+                    animationController.stop();
+                  } else {
+                    animationController.repeat();
+                  }
+                });
+              },
+              child: Text(animationController.isAnimating ? 'Stop' : 'Start'),
+            ),
+            const SizedBox(
+              width: 10,
+            ),
             FloatingActionButton(
               heroTag: 1,
               onPressed: () {
@@ -90,6 +105,7 @@ class _PlanetRotationState extends State<PlanetRotation>
               },
               child: const Icon(Icons.add),
             ),
+
           ],
         ),
       ),
